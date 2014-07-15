@@ -11,7 +11,7 @@ package clase1;
  * @author Min
  */
 public class Clase1 {
-    int array;
+    int[] array;
     public static void main(String[] args) {
         System.out.print("Hola Daniel");
         System.out.print("Min");
